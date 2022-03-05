@@ -1,4 +1,6 @@
 # FrontEnd_LaunchX
+Curso de FrontEnd de LaunchX-InnovaccionVirtual
+
 - Semana 1 - Intro
   * [Toma de requerimientos](https://github.com/ghquiroz/FrontEnd_LaunchX/blob/main/Semana%201%20-%20Intro/1.-Requerimientos.pdf)
   * [Buyer persona](https://github.com/ghquiroz/FrontEnd_LaunchX/blob/main/Semana%201%20-%20Intro/2.-Buyer%20persona.pdf)
