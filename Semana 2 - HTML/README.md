@@ -14,6 +14,6 @@ Descripción:
 - La página debe tener información de la pastelería que es Dirección, Teléfono y horarios de atención.
 
 **Prácticas:**
--Crear un logo para la pastelería
--Maquetación de páginas de cliente de la pastelería.
--Maquetación de páginas del pastelero.
+- Crear un logo para la pastelería
+- Maquetación de páginas de cliente de la pastelería.
+- Maquetación de páginas del pastelero.
