@@ -9,6 +9,6 @@ Curso de FrontEnd de LaunchX-InnovaccionVirtual
   * [UI](https://github.com/ghquiroz/FrontEnd_LaunchX/blob/main/Semana%201%20-%20Intro/5.-%20Dise%C3%B1o%20UI.pdf)
 
 - Semana 2 - HTML
-  * [Crear un logo para la pastelería] (https://github.com/ghquiroz/FrontEnd_LaunchX/blob/main/Semana%202%20-%20HTML/Logo.png)
-  * [Maquetación de páginas de cliente de la pastelería.] (https://github.com/ghquiroz/FrontEnd_LaunchX/tree/main/Semana%202%20-%20HTML/Practica%20-%20Pasteleria)
-  * [Maquetación de páginas del pastelero.] (https://github.com/ghquiroz/FrontEnd_LaunchX/tree/main/Semana%202%20-%20HTML/Practica%20-%20Pasteleria)
+  * [Crear un logo para la pastelería](https://github.com/ghquiroz/FrontEnd_LaunchX/blob/main/Semana%202%20-%20HTML/Logo.png)
+  * [Maquetación de páginas de cliente de la pastelería.](https://github.com/ghquiroz/FrontEnd_LaunchX/tree/main/Semana%202%20-%20HTML/Practica%20-%20Pasteleria)
+  * [Maquetación de páginas del pastelero.](https://github.com/ghquiroz/FrontEnd_LaunchX/tree/main/Semana%202%20-%20HTML/Practica%20-%20Pasteleria)
