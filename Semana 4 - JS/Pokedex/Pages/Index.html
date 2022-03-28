@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <link rel="stylesheet" href="../Content/CSS/Styles.css" />
+    <link rel="stylesheet" href="../Content/CSS/Styles.css" />
+
+    <title>POKEDEX</title>
+</head>
+<body>  
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+  <script type="text/javascript" src="../Content/js/Javascript.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.7.1/chart.min.js"></script>
+
+  <header>
+       <h1>POKEDEX</h1>
+  </header>
+  <div class="container">
+    <div class="row">
+      <div class="col-6 pokedex-left">
+        <div class="row">
+            <div class="circulo-blue"></div>
+            <div class="circulo-red"></div>
+            <div class="circulo-yellow"></div>
+            <div class="circulo-green"></div>
+        </div>
+        <div class="row justify-content-md-center">
+          <div class="col-9">
+            <div class="pokedex-screen">
+              <img id="pokeimg">
+            </div>
+          </div>
+        </div>
+        <div class="row justify-content-md-center ">
+          <div class="col-4">
+            <input type="text" id="pokeName" placeholder="Ingresar Nombre">
+          </div>
+          <div class="col-2">
+            <button onclick="fetchPokemon()"></button>
+          </div>
+          <div class="col-3">
+            <input type="text" id="pokeID" placeholder="Ingresar ID">
+          </div>
+          <div class="col-3">
+            <button class="button2" onclick="fetchPokemonID()"></button>
+          </div>
+        </div>
+      </div>
+      <div class="col-6 pokedex-right">
+        <div class="row justify-content-md-center">
+          <div class="col-10">
+            <div class="pokedex-screen2">
+              <div class="row">
+                <div class="col-6 col-md-12 col-xs-3"><h3 class="text" id="namepokemon"></h3></div>
+              <div class="row">
+                <div class="col-6 col-md-12">
+                  <span class="text" id="types"></span>
+                </div>
+              </div>
+              <div class="row" id="abilities"></div>
+              <div class="row">            
+                <div class="col-md-12 col-6">
+                  <canvas id="barChart" style="min-height: 250px; height: 400px; max-height: 250px;width:100%; max-width: 100%;"></canvas>
+                </div>
+              </div>
+              <div class="row" id="moves"></div>              
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+    
+  <footer>
+   
+  </footer>
+</body>
+</html>
