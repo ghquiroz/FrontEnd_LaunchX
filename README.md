@@ -19,6 +19,6 @@ Curso de FrontEnd de LaunchX-InnovaccionVirtual
   * [Estilos con CSS](https://github.com/ghquiroz/FrontEnd_LaunchX/blob/main/Semana%203%20-%20CSS/Vaccination/Content/css/Styles.css)
 
 - Semana 4 - JS
- * [Maquetación del sitio con HTML](https://github.com/ghquiroz/FrontEnd_LaunchX/blob/main/Semana%204%20-%20JS/Pokedex/Pages/Index.html)
- * [Diseño con CSS](https://github.com/ghquiroz/FrontEnd_LaunchX/blob/main/Semana%204%20-%20JS/Pokedex/Content/CSS/Styles.css)
- * [JavaScript](https://github.com/ghquiroz/FrontEnd_LaunchX/blob/main/Semana%204%20-%20JS/Pokedex/Content/js/Javascript.js)
+  * [Maquetación del sitio con HTML](https://github.com/ghquiroz/FrontEnd_LaunchX/blob/main/Semana%204%20-%20JS/Pokedex/Pages/Index.html)
+  * [Diseño con CSS](https://github.com/ghquiroz/FrontEnd_LaunchX/blob/main/Semana%204%20-%20JS/Pokedex/Content/CSS/Styles.css)
+  * [JavaScript](https://github.com/ghquiroz/FrontEnd_LaunchX/blob/main/Semana%204%20-%20JS/Pokedex/Content/js/Javascript.js)
